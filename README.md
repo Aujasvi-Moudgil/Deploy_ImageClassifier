@@ -2,7 +2,7 @@
 
 The repo comprises of training CNN from Petimages and using Flask for model serving.
 
-Image (Dir_Struct) 
+![Image](Dir_Struct.png)
 
 ## Application Pipeline 
 
@@ -12,13 +12,13 @@ The training pipeline includes data-preprocessing, selecting the right algorithm
 
 [Training Notebook file](cnn.py)
 
-Image (Training.png)
+![Image](Training.png)
 
 
 ### Model Serving on Flask using Pivotal Cloud Foundry Services 
 Once the training is done and predictions are made, the trained and saved model is exposed as an API to the user on cloud platform. 
 
-Image (Deploy) 
+![Image](Deploy.png) 
 
 ## Pre-requisites
 - Basic knowledge of flask framework
@@ -28,7 +28,7 @@ Image (Deploy)
 
 ## Result (After successful deployment) 
 
-Image (DogCatClassifier) 
+![Image](ResultClassifier.png)
 
 
 
