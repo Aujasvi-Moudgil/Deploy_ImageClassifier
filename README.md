@@ -2,6 +2,8 @@
 
 The repo comprises of training CNN from Petimages and using Flask for model serving.
 
+The directory is defined as
+
 ![Image](Dir_Struct.png)
 
 ## Application Pipeline 
