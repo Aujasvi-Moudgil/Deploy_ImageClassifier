@@ -1,6 +1,6 @@
 # Image Classification using Flask python web app on Pivotal Cloud Foundry Platform  
 
-The repo comprises of training CNN from Petimages and using Flask for Model serving.
+The repo comprises of training CNN from Petimages and using Flask for model serving.
 
 Image (Dir_Struct) 
 
