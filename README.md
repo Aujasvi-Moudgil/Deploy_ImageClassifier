@@ -26,7 +26,7 @@ Once the training is done and predictions are made, the trained and saved model 
 - A Pivotal Account 
 - Basic understanding of HTML 
 
-## Result (After successful deployment) 
+## Result (After Deployment) 
 
 ![Image](ResultClassifier.png)
 
