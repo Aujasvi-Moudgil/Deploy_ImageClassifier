@@ -8,7 +8,7 @@ Image (Dir_Struct)
 
 ### Training
 
-The training pipeline includes data-preprocessing, selecting the right algorithm for creating the Machine Learning / Deep Learning model, checking the accuracy of the created model and then saving the model file. (Here it is model.h5 file)
+The training pipeline includes data-preprocessing, selecting the right algorithm for creating the Machine Learning / Deep Learning model, checking the accuracy of the created model and then saving the model file. (Here, it's model.h5 file)
 
 [Training Notebook file](cnn.py)
 
